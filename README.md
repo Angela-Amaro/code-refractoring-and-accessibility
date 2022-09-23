@@ -8,6 +8,8 @@ In this code I refactored it so that it was not only meets accesibility standard
 ## Usage
 
 ![The following Horiseon webpage includes clickable links in the navigation bar and meets accessibility standards](/Develop/assets/images/screenshot.png)
+
+
 **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px.
 
 
