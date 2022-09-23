@@ -1,7 +1,7 @@
 # Code Refactoring
 
 ## Description
-In this code I refactored it so that it was not only meets accesibility standards but also simplified code in both HTML and CSS. This included grouping selectors, changing labels, and fixing a link. Code refactoring means you can make edits to the code with out disturbing how the website looks when opened on a browser. Doing so also makes the code easier to read for future coworkers who look at the code later also known as the **Scout Rule**&mdash;.
+In this code I refactored it so that it was not only meets accesibility standards but also simplified code in both HTML and CSS. This included grouping selectors, changing labels, and fixing a link. Code refactoring means you can make edits to the code with out disturbing how the website looks when opened on a browser. Doing so also makes the code easier to read for future coworkers who look at the code later also known as the Scout Rule.
 
 
 
