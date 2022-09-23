@@ -4,15 +4,20 @@
 <head>
     <meta charset="UTF-8" />
     <link rel="stylesheet" href="./assets/css/style.css">
+    <!--added a more appropriate title for this webpage-->
     <title>Horiseon website</title>
 </head>
 
 <body>
+    <!--div did not have a descruptive header so I swap that here-->
     <header>
         <h1>Hori<span class="seo">seo</span>n</h1>
+        <!--changed div to nav because it navigates to different parts on the webpage-->
         <nav>
             <ul>
                 <li>
+                    <!--because there is an anchor referencing txt and not a link we need to make sure we have an
+                        id class associated so the href works with the anchor-->
                     <a href="#search-engine-optimization">Search Engine Optimization</a>
                 </li>
                 <li>
@@ -26,8 +31,9 @@
     </header>
 
     <div class="hero"></div>
-
+<!--renamed div to main because this is the part of code that takes up the most of the webpage-->
     <main class="content">
+        <!--Had to include an id class in order for the link to work on the webpage-->
         <div id="search-engine-optimization" class="search-engine-optimization">
             <img src="./assets/images/search-engine-optimization.jpg" class="float-left" alt="search-engine-optimization"/>
             <h2>Search Engine Optimization</h2>
@@ -50,7 +56,7 @@
             </p>
         </div>
     </main>
-
+<!--replaced the div with aside because the content inside this div only takes up a column on the right side of the page-->
     <aside class="benefits">
         <div class="benefit-lead">
             <h3>Lead Generation</h3>
@@ -74,7 +80,7 @@
             </p>
         </div>
     </aside>
-
+<!--added appropriate footer to match the class-->
     <footer class="footer">
         <h2>Made with ❤️️ by Horiseon</h2>
         <p>

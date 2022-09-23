@@ -1,8 +1,12 @@
-# 01 HTML, CSS, and Git: Code Refactor
+# Code refactoring
 
-## Code refactoring
+## Description
 
-There are two types of Challenges in this course. Each one is designed to prepare you for a scenario that you're likely to encounter as a web developer.
+short description explaining the what, why, and how. What was your motivation? What problem does it solve? What did you learn? What makes your project stand out? 
+
+Lastly, if your project is deployed, include a link to the deployed application here.
+
+(put link in here to deployed site)
 
 ### Challenge Types 
 
